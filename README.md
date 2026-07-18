@@ -159,12 +159,12 @@ That means:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jari-Abbas&show_icons=true&theme=dark&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jari-Abbas&layout=compact&theme=dark&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="38%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Jari-Abbas&show_icons=true&theme=dark&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jari-Abbas&layout=compact&theme=dark&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="38%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jari-Abbas&theme=dark&hide_border=true&background=0D1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=Jari-Abbas&theme=dark&hide_border=true&background=0D1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="60%" />
 
 <br/><br/>
 

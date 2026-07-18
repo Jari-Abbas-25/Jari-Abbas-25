@@ -159,18 +159,6 @@ That means:
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Jari-Abbas&show_icons=true&theme=dark&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jari-Abbas&layout=compact&theme=dark&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="38%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Jari-Abbas&theme=dark&hide_border=true&background=0D1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jari-Abbas&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" width="80%" />
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jari-Abbas&theme=react-dark&hide_border=true&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" width="90%" />
 

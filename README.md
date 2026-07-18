@@ -1,131 +1,168 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Syed%20Muhammad%20Jari%20Abbas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Python%20Automation%20Developer%20•%20AI-Assisted%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7dd3fc&height=260&section=header&text=Syed%20Muhammad%20Jari%20Abbas&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=BS%20Software%20Engineering%20Student&descAlignY=58&descSize=18&descColor=7dd3fc" width="100%"/>
 
 <a href="https://github.com/Jari-Abbas">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Flutter+Developer;Python+Automation+Developer;AI-Assisted+Full+Stack+Developer;Building+Intelligent+Automation+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=7DD3FC&center=true&vCenter=true&width=650&lines=Flutter+Developer;Python+Developer;Software+Engineering+Student;Building+Modern+Mobile+Applications;Developing+Backend+APIs;Creating+Automation+Tools;Currently+Building+a+Crypto+Trading+Bot;Always+Learning+Something+New" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Open%20To%20Work-Part--time%20%7C%20Remote%20%7C%20Freelance-7dd3fc?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Jari-Abbas&label=Profile%20Views&color=7dd3fc&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Jari-Abbas?label=Followers&style=for-the-badge&color=7dd3fc&logo=github" />
 
 </div>
 
 <br/>
 
-## 🧠 About Me
+<div align="center">
 
-```typescript
-const jari = {
-  role: "Flutter Developer • Python Automation Developer • AI-Assisted Full Stack Developer",
-  specialization: [
-    "Cross-platform mobile app development",
-    "Python backend systems (AI-assisted)",
-    "Automation & AI-powered applications",
-  ],
-  currentFocus: [
-    "Building a Python-based Crypto Arbitrage Bot",
-    "Developing a Flutter-based E-commerce Website",
-    "Learning AI Automation & scalable backend systems",
-  ],
-  technologies: {
-    mobile: ["Flutter", "Dart"],
-    backend: ["Python"],
-    frontend: ["HTML", "CSS", "JavaScript"],
-    databases: ["SQL", "Firebase", "Supabase"],
-    aiAndAutomation: ["AI-assisted development", "Prompt Engineering", "Automation", "Python Automation"],
-    tools: ["Git", "GitHub", "VS Code", "Android Studio"],
-  },
-  openTo: "Part-time | Remote | Freelance",
-  learning: "AI Automation & scalable backend systems",
-};
-```
+**🟢 Open to Work** — Part-Time&nbsp; · &nbsp;Remote&nbsp; · &nbsp;Freelance
+
+</div>
 
 <br/>
 
-## 🛠️ Tech Stack
+---
 
-**📱 Mobile**
+## 👨‍💻 About Me
 
+I'm a Software Engineering student who genuinely enjoys building things that work — not just in theory, but in the hands of real users.
+
+My main focus is **Flutter development**, where I build cross-platform mobile applications with clean, responsive interfaces. Alongside that, I build the systems that power those apps — **backend services, automation tools, and REST APIs** using Python.
+
+A few things that define how I work:
+
+- I care more about understanding *why* something works than just getting it to run.
+- I'm currently deepening my knowledge of software architecture, system design, and design patterns — the fundamentals that separate a working app from a well-built one.
+- I use AI as a productivity tool to move faster, not as a substitute for engineering judgment. The thinking, architecture, and decisions are mine.
+- I learn best by building — most of what I know came from shipping real projects, not just tutorials.
+
+Right now, I'm channeling that into a trading bot, an e-commerce platform, and a handful of automation tools — projects big enough to force me to actually learn the fundamentals, not just skim them.
+
+---
+
+## 💻 Tech Stack
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Mobile**
+<br/>
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-**🐍 Backend**
-
+**Backend**
+<br/>
 <img src="https://skillicons.dev/icons?i=python" />
 
-**🌐 Frontend**
-
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-**🛢 Databases**
+</td>
+<td width="50%" valign="top">
 
+**Databases**
+<br/>
 <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
 
-**🤖 AI & Automation**
+**Automation**
+<br/>
+Python Automation &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; Workflow Automation
 
-![AI-assisted development](https://img.shields.io/badge/AI--Assisted%20Development-7dd3fc?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7dd3fc?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-7dd3fc?style=for-the-badge&logo=zapier&logoColor=white)
-![Python Automation](https://img.shields.io/badge/Python%20Automation-7dd3fc?style=for-the-badge&logo=python&logoColor=white)
-
-**🧰 Tools**
-
+**Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 
-<br/>
-
-## 💡 Expertise
-
-<table>
-<tr>
-<td>📱 Flutter Development</td>
-<td>🐍 Python Development</td>
-</tr>
-<tr>
-<td>🤖 AI Automation</td>
-<td>⚡ Backend APIs</td>
-</tr>
-<tr>
-<td>🛢 SQL Databases</td>
-<td>🔥 Firebase & Supabase</td>
-</tr>
-<tr>
-<td>🌐 Frontend Development</td>
-<td></td>
+</td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 🚧 Currently Building
+## 🚀 Current Journey
 
-- 🤖 **Crypto Arbitrage Bot** — Python
-- 🛒 **Flutter E-commerce Website** — Flutter
-- ⚙️ **AI Automation Projects**
+I'm at the stage of my engineering journey where the goal has shifted from *"can I build this?"* to *"can I build this well?"*
 
-<br/>
+That means spending real time on architecture decisions, thinking about scalability before it's needed, and writing code that I (or anyone else) can still understand six months later. Every project below is chosen specifically because it pushes that goal forward.
 
-## 🏆 Achievements
+---
 
-- ✅ Kaggle Python Course
-- ✅ Kaggle SQL Course
+## 🧩 What I Build
 
-<br/>
+<table width="100%">
+<tr>
+<td width="50%">📱 Cross-Platform Mobile Applications</td>
+<td width="50%">⚡ REST APIs</td>
+</tr>
+<tr>
+<td width="50%">🤖 Automation Systems</td>
+<td width="50%">📊 Dashboard Applications</td>
+</tr>
+<tr>
+<td width="50%">🛢 Database-Driven Applications</td>
+<td width="50%">🛒 E-Commerce Solutions</td>
+</tr>
+<tr>
+<td width="50%">🔗 API Integrations</td>
+<td width="50%">☁️ Cloud-Connected Apps</td>
+</tr>
+</table>
+
+---
+
+## 🔨 Currently Building
+
+Since these projects aren't public yet, here's what's actively in progress:
+
+- 🤖 **Crypto Arbitrage Trading Bot** — a Python system for identifying and acting on price differences across exchanges
+- 🛒 **Flutter E-Commerce Platform** — a full cross-platform shopping experience from UI to backend
+- ⚡ **Backend APIs** — services that power the above and future projects
+- ⚙️ **Automation Tools** — small systems that remove repetitive manual work
+
+---
+
+## 🌱 Currently Learning
+
+Software Architecture &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Design Patterns &nbsp;·&nbsp; Advanced Flutter &nbsp;·&nbsp; Backend Development &nbsp;·&nbsp; Automation &nbsp;·&nbsp; Trading Algorithms
+
+---
+
+## 📈 Current Goals
+
+- Finish and deploy the Crypto Arbitrage Trading Bot end-to-end
+- Ship the Flutter E-Commerce Platform as a complete, working product
+- Get hands-on with system design at a level beyond tutorials
+- Start contributing to and publishing public repositories
+- Take on part-time, remote, or freelance work to apply everything above in the real world
+
+---
+
+## 🧠 Development Philosophy
+
+I try to build with the mindset of an engineer, not just someone assembling code that runs.
+
+That means:
+
+- **Problem-solving first.** I'd rather spend an extra hour understanding the problem than rush a fix that breaks again next week.
+- **Fundamentals over shortcuts.** Frameworks and tools change; the underlying software engineering principles don't. I invest in those.
+- **AI as a tool, not a crutch.** I use it to move faster on the parts that don't require judgment, so I can spend more time on the parts that do.
+- **Clean over clever.** Code should be maintainable and scalable, not just functional.
+- **Continuous learning.** Every project is a chance to close a gap in what I know.
+
+---
+
+## 🏆 Certifications
+
+- Kaggle Python
+- Kaggle SQL
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jari-Abbas&show_icons=true&theme=dark&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jari-Abbas&layout=compact&theme=dark&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jari-Abbas&show_icons=true&theme=dark&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jari-Abbas&layout=compact&theme=dark&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="38%" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jari-Abbas&theme=dark&hide_border=true&background=0D1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="60%" />
 
@@ -139,9 +176,9 @@ const jari = {
 
 </div>
 
-<br/>
+---
 
-## 📬 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -159,4 +196,6 @@ const jari = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=150&section=footer" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0d1117&height=150&section=footer" width="100%"/>
+</div>

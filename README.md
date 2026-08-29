@@ -17,6 +17,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://syedjari-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-jari-abbas-5832a4304/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedjariabbas1@gmail.com)
+[![Followers](https://img.shields.io/github/followers/Jari-Abbas-25?style=for-the-badge&logo=github&color=7dd3fc&labelColor=0d1117)](https://github.com/Jari-Abbas-25)
 
 </div>
 
@@ -141,15 +142,18 @@ Relevant coursework: Data Structures & Algorithms, DBMS, OOP, Software Engineeri
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Snapshot
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jari-Abbas-25&theme=react-dark&hide_border=true&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" width="90%" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jari-Abbas-25&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jari-Abbas-25&layout=compact&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9" height="165"/>
+![Repos](https://img.shields.io/badge/Public_Repos-8-7dd3fc?style=for-the-badge&logo=github&labelColor=0d1117)
+![Primary Stack](https://img.shields.io/badge/Primary_Stack-Flutter_%7C_Python-7dd3fc?style=for-the-badge&logo=flutter&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Open_to_Work-7dd3fc?style=for-the-badge&logo=briefcase&labelColor=0d1117)
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=dart,python,js,html,css,flutter&theme=dark" />
+
 </div>
 
 ---

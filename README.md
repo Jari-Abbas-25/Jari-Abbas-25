@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7dd3fc&height=260&section=header&text=S.M.%20Jari%20Abbas%20Rizvi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20%26%20Flutter%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=7dd3fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7dd3fc&height=260&section=header&text=Syed%20Muhammad%20Jari%20Abbas&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=BS%20Software%20Engineering%20Student&descAlignY=58&descSize=18&descColor=7dd3fc" width="100%"/>
 
-<a href="https://github.com/Jari-Abbas-25">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=650&lines=Flutter+%2B+FastAPI+Full-Stack+Developer;Building+VELOURA+%E2%80%94+a+Luxury+E-Commerce+Platform;Building+Godzilla+%E2%80%94+a+Crypto+Signals+Simulator;Software+Engineering+Student+%40+UBIT;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
+<a href="https://github.com/Jari-Abbas">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=7DD3FC&center=true&vCenter=true&width=650&lines=Flutter+Developer;Python+Developer;Software+Engineering+Student;Building+Modern+Mobile+Applications;Developing+Backend+APIs;Creating+Automation+Tools;Currently+Building+a+Crypto+Trading+Bot;Always+Learning+Something+New" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,12 +12,7 @@
 
 <div align="center">
 
-**🟢 Open to Work** — Part-Time&nbsp;·&nbsp;Remote&nbsp;·&nbsp;Freelance&nbsp;&nbsp;|&nbsp;&nbsp;📍 Karachi, Pakistan
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://syedjari-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-jari-abbas-5832a4304/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedjariabbas1@gmail.com)
-[![Followers](https://img.shields.io/github/followers/Jari-Abbas-25?style=for-the-badge&logo=github&color=7dd3fc&labelColor=0d1117)](https://github.com/Jari-Abbas-25)
+**🟢 Open to Work** — Part-Time&nbsp; · &nbsp;Remote&nbsp; · &nbsp;Freelance
 
 </div>
 
@@ -27,119 +22,145 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering student (BS, University of Karachi — UBIT) who builds full-stack products end to end: **Flutter** on the frontend, **Python / FastAPI** on the backend.
+I'm a Software Engineering student who genuinely enjoys building things that work — not just in theory, but in the hands of real users.
+
+My main focus is **Flutter development**, where I build cross-platform mobile applications with clean, responsive interfaces. Alongside that, I build the systems that power those apps — **backend services, automation tools, and REST APIs** using Python.
+
+A few things that define how I work:
 
 - I care more about understanding *why* something works than just getting it to run.
-- I recently completed a **Full-Stack Development internship at CodeAlpha**, shipping two production-style apps — an e-commerce platform and a social media platform — in a single month.
-- I use AI as a productivity tool to move faster, not as a substitute for engineering judgment. The architecture and decisions are mine.
 - I'm currently deepening my knowledge of software architecture, system design, and design patterns — the fundamentals that separate a working app from a well-built one.
+- I use AI as a productivity tool to move faster, not as a substitute for engineering judgment. The thinking, architecture, and decisions are mine.
+- I learn best by building — most of what I know came from shipping real projects, not just tutorials.
+
+Right now, I'm channeling that into a trading bot, an e-commerce platform, and a handful of automation tools — projects big enough to force me to actually learn the fundamentals, not just skim them.
 
 ---
 
 ## 💻 Tech Stack
 
-**Mobile**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
+**Mobile**
+<br/>
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 **Backend**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python" />
 
 **Frontend**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-**Databases &amp; Services**
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" />
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+
+**Automation**
+<br/>
+Python Automation &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; Workflow Automation
 
 **Tools**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 
-**Flutter Ecosystem:** GetX · go_router · State Management · Responsive UI
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Experience
+## 🚀 Current Journey
 
-**Full-Stack Development Intern** — [CodeAlpha](https://www.codealpha.tech/) · Remote · *Aug – Sep 2026*
-One-month internship building full-stack applications with Flutter on the frontend and Python/FastAPI on the backend. Independently delivered two complete projects as internship tasks — **VELOURA** and the **Mini Social Media Platform** — reviewing requirements and iterating on each build before submission.
+I'm at the stage of my engineering journey where the goal has shifted from *"can I build this?"* to *"can I build this well?"*
+
+That means spending real time on architecture decisions, thinking about scalability before it's needed, and writing code that I (or anyone else) can still understand six months later. Every project below is chosen specifically because it pushes that goal forward.
 
 ---
 
-## 🚀 Featured Projects
+## 🧩 What I Build
 
-### 🛒 [VELOURA — Luxury E-Commerce Platform](https://github.com/Jari-Abbas-25/codealpha_Simple-E-commerce-Store)
-`Flutter Web 3.x` `GetX` `go_router` `FastAPI` `PostgreSQL` `Cloudinary`
+<table width="100%">
+<tr>
+<td width="50%">📱 Cross-Platform Mobile Applications</td>
+<td width="50%">⚡ REST APIs</td>
+</tr>
+<tr>
+<td width="50%">🤖 Automation Systems</td>
+<td width="50%">📊 Dashboard Applications</td>
+</tr>
+<tr>
+<td width="50%">🛢 Database-Driven Applications</td>
+<td width="50%">🛒 E-Commerce Solutions</td>
+</tr>
+<tr>
+<td width="50%">🔗 API Integrations</td>
+<td width="50%">☁️ Cloud-Connected Apps</td>
+</tr>
+</table>
 
-A full-stack e-commerce web app — CodeAlpha internship deliverable. Product catalog, persistent cart, and multi-step checkout with order tracking, plus an admin portal for products, categories, and orders with Cloudinary-based image uploads.
+---
 
-### 💬 [Mini Social Media Platform](https://github.com/Jari-Abbas-25/codealpha_social-media-platform)
-`Flutter Web` `FastAPI` `PostgreSQL` `Firebase Auth` `Cloudinary`
+## 🔨 Currently Building
 
-Full-stack social platform with Firebase Authentication, a follower/following system, and a cursor-based paginated feed with optimistic like/comment updates — covered by an automated Flutter widget/unit test suite.
+Since these projects aren't public yet, here's what's actively in progress:
 
-### 🤖 [Godzilla Signals Simulator](https://github.com/Jari-Abbas-25/Godzilla_signals_simulator)
-`Python` `FastAPI` `SQLite` `Web Scraping`
-
-An automated trading-signal parser and paper-trading simulator for crypto signals — signal scraping, configurable risk-management rules (position sizing, stop-loss caps, cooling-off periods), and a real-time FastAPI dashboard for safe, capital-free strategy backtesting against live multi-exchange prices.
-
-### 🎓 [Light Of Knowledge — Coaching Management System](https://github.com/Jari-Abbas-25/Light-Of-Knowledge-management-system)
-`Flutter (Desktop & Android)` `Supabase` `PostgreSQL`
-
-A coaching management system with an admin dashboard (Flutter desktop) and a student-facing portal (Flutter Android), backed by Supabase with Row Level Security. Replaced manual attendance and fee tracking with digital records, daily attendance logs, monthly fee status, and direct messaging.
-
-### 🍔 [Meal Dash — Food Delivery App](https://github.com/Jari-Abbas-25/Meal-Dash-food-delivery-app-)
-`Flutter` `Dart`
-
-A cross-platform food delivery app UI/UX build focused on clean, responsive Flutter screens.
+- 🤖 **Crypto Arbitrage Trading Bot** — a Python system for identifying and acting on price differences across exchanges
+- 🛒 **Flutter E-Commerce Platform** — a full cross-platform shopping experience from UI to backend
+- ⚡ **Backend APIs** — services that power the above and future projects
+- ⚙️ **Automation Tools** — small systems that remove repetitive manual work
 
 ---
 
 ## 🌱 Currently Learning
 
-Software Architecture &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Design Patterns &nbsp;·&nbsp; Advanced Flutter &nbsp;·&nbsp; Trading Algorithms
+Software Architecture &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Design Patterns &nbsp;·&nbsp; Advanced Flutter &nbsp;·&nbsp; Backend Development &nbsp;·&nbsp; Automation &nbsp;·&nbsp; Trading Algorithms
+
+---
 
 ## 📈 Current Goals
 
-- Grow VELOURA and the Godzilla Signals Simulator beyond internship scope into fully deployed products
+- Finish and deploy the Crypto Arbitrage Trading Bot end-to-end
+- Ship the Flutter E-Commerce Platform as a complete, working product
 - Get hands-on with system design at a level beyond tutorials
-- Keep contributing to and publishing public repositories
-- Take on more part-time, remote, or freelance work
+- Start contributing to and publishing public repositories
+- Take on part-time, remote, or freelance work to apply everything above in the real world
 
 ---
 
 ## 🧠 Development Philosophy
 
+I try to build with the mindset of an engineer, not just someone assembling code that runs.
+
+That means:
+
 - **Problem-solving first.** I'd rather spend an extra hour understanding the problem than rush a fix that breaks again next week.
-- **Fundamentals over shortcuts.** Frameworks and tools change; the underlying software engineering principles don't.
+- **Fundamentals over shortcuts.** Frameworks and tools change; the underlying software engineering principles don't. I invest in those.
 - **AI as a tool, not a crutch.** I use it to move faster on the parts that don't require judgment, so I can spend more time on the parts that do.
 - **Clean over clever.** Code should be maintainable and scalable, not just functional.
+- **Continuous learning.** Every project is a chance to close a gap in what I know.
 
 ---
 
-## 🏆 Education & Certifications
+## 🏆 Certifications
 
-**BS Software Engineering** — University of Karachi (UBIT) · *2023 – Present*
-Relevant coursework: Data Structures & Algorithms, DBMS, OOP, Software Engineering
-
-**Kaggle Certifications:** Python &nbsp;·&nbsp; Introduction to Programming &nbsp;·&nbsp; Introduction to SQL &nbsp;·&nbsp; Pandas
+- Kaggle Python
+- Kaggle SQL
 
 ---
 
-## 📊 Snapshot
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Public_Repos-8-7dd3fc?style=for-the-badge&logo=github&labelColor=0d1117)
-![Primary Stack](https://img.shields.io/badge/Primary_Stack-Flutter_%7C_Python-7dd3fc?style=for-the-badge&logo=flutter&labelColor=0d1117)
-![Status](https://img.shields.io/badge/Status-Open_to_Work-7dd3fc?style=for-the-badge&logo=briefcase&labelColor=0d1117)
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=dart,python,js,html,css,flutter&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jari-Abbas&theme=react-dark&hide_border=true&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" width="90%" />
 
 </div>
 

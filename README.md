@@ -38,40 +38,27 @@ I'm a Software Engineering student (BS, University of Karachi — UBIT) who buil
 
 ## 💻 Tech Stack
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 **Mobile**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 **Backend**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=python,fastapi" />
 
 **Frontend**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-</td>
-<td width="50%" valign="top">
+**Databases &amp; Services**
 
-**Databases & Services**
-<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" />
 
-**Flutter Ecosystem**
-<br/>
-GetX &nbsp;·&nbsp; go_router &nbsp;·&nbsp; State Management &nbsp;·&nbsp; Responsive UI
-
 **Tools**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 
-</td>
-</tr>
-</table>
+**Flutter Ecosystem:** GetX · go_router · State Management · Responsive UI
 
 ---
 

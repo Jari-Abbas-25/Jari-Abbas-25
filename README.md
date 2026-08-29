@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7dd3fc&height=260&section=header&text=Syed%20Muhammad%20Jari%20Abbas&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20%26%20Flutter%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=7dd3fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:172554,100:7dd3fc&amp;height=240&amp;section=header&amp;text=Syed%20Muhammad%20Jari%20Abbas&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Python%20%26%20Flutter%20Full-Stack%20Developer&amp;descAlignY=57&amp;descSize=18&amp;descColor=7dd3fc" width="100%" alt="Profile Header"/>
 
 <a href="https://github.com/Jari-Abbas-25">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code%26weight=500%26size=24%26pause=1200%26color=7DD3FC%26center=true%26vCenter=true%26width=700%26lines=Flutter+%2B+FastAPI+Full-Stack+Developer;Building+VELOURA+%E2%80%94+a+Luxury+E-Commerce+Platform;Building+Godzilla+%E2%80%94+a+Crypto+Signals+Simulator;Software+Engineering+Student;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&amp;weight=500&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=55&amp;lines=Flutter+%2B+FastAPI+Full-Stack+Developer;Building+VELOURA+%E2%80%94+a+Luxury+E-Commerce+Platform;Building+Godzilla+%E2%80%94+a+Crypto+Signals+Simulator;Software+Engineering+Student;Always+Learning+Something+New" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/Jari-Abbas-25">
-<img src="https://komarev.com/ghpvc/?username=Jari-Abbas-25&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Jari-Abbas-25&amp;label=Profile%20Views&amp;color=7dd3fc&amp;style=flat" alt="Profile Views"/>
 </a>
 &nbsp;
 <a href="https://github.com/Jari-Abbas-25?tab=followers">
-<img src="https://img.shields.io/github/followers/Jari-Abbas-25?label=Followers&style=flat&color=7dd3fc" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/Jari-Abbas-25?label=Followers&amp;style=flat&amp;color=7dd3fc" alt="GitHub Followers"/>
 </a>
 
 </div>
@@ -22,7 +22,9 @@
 
 <div align="center">
 
-**🟢 Open to Work** — Part-Time &nbsp;·&nbsp; Remote &nbsp;·&nbsp; Freelance
+### 🟢 Open to Work
+
+**Part-Time** &nbsp; · &nbsp; **Remote** &nbsp; · &nbsp; **Freelance**
 
 </div>
 
@@ -48,33 +50,73 @@ Right now, I'm channeling that into a luxury e-commerce platform, a social media
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-### 📱 Mobile Development
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart"/>
+### 📱 Mobile
 
-### ⚡ Backend Development
+<img src="https://skillicons.dev/icons?i=flutter,dart&amp;perline=4" alt="Flutter Dart"/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python and FastAPI"/>
+**Flutter** · **Dart** · GetX · go_router
 
-### 🌐 Frontend
+</td>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
+### ⚡ Backend
 
-### 🗄️ Databases & Backend Services
+<img src="https://skillicons.dev/icons?i=python,fastapi&amp;perline=4" alt="Python FastAPI"/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" alt="PostgreSQL MySQL Firebase Supabase"/>
+**Python** · **FastAPI** · REST APIs
 
-### 🛠️ Tools
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" alt="Git GitHub VS Code Android Studio"/>
+<tr>
+<td align="center" width="50%">
 
-<br/><br/>
+### 🌐 Web
 
-**Flutter Ecosystem:** GetX &nbsp;·&nbsp; go_router &nbsp;·&nbsp; State Management &nbsp;·&nbsp; Responsive UI
+<img src="https://skillicons.dev/icons?i=html,css,js&amp;perline=4" alt="HTML CSS JavaScript"/>
+
+**HTML** · **CSS** · **JavaScript**
+
+</td>
+<td align="center" width="50%">
+
+### 🗄️ Data & Auth
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase&amp;perline=4" alt="PostgreSQL MySQL Firebase Supabase"/>
+
+**PostgreSQL** · **MySQL** · **Firebase** · **Supabase**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&amp;perline=4" alt="Git GitHub VS Code Android Studio"/>
+
+**Git** · **GitHub** · **VS Code** · **Android Studio**
+
+</td>
+<td align="center" width="50%">
+
+### ☁️ Platforms & Services
+
+**Cloudinary** · **Firebase Auth** · **Supabase**  
+**Responsive UI** · **State Management** · **API Integration**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -98,12 +140,13 @@ One-month internship building full-stack applications with Flutter on the fronte
 
 **Luxury E-Commerce Platform**
 
-Flutter Web · GetX · go_router · FastAPI · PostgreSQL · Cloudinary
+`Flutter Web` `GetX` `go_router`  
+`FastAPI` `PostgreSQL` `Cloudinary`
 
 Full purchase flow from browsing to checkout, plus an admin portal for products, categories, and orders.
 
 <a href="https://github.com/Jari-Abbas-25/codealpha_Simple-E-commerce-Store">
-<img src="https://img.shields.io/badge/View%20Repository-7dd3fc?style=for-the-badge&logo=github&logoColor=0d1117" alt="VELOURA Repository"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=7dd3fc" alt="VELOURA Repository"/>
 </a>
 
 </td>
@@ -112,12 +155,13 @@ Full purchase flow from browsing to checkout, plus an admin portal for products,
 
 ### 💬 Mini Social Media Platform
 
-Flutter Web · FastAPI · PostgreSQL · Firebase Auth · Cloudinary
+`Flutter Web` `FastAPI` `PostgreSQL`  
+`Firebase Auth` `Cloudinary`
 
 Follower system and a cursor-paginated feed with optimistic like/comment updates, tested with a Flutter widget/unit test suite.
 
 <a href="https://github.com/Jari-Abbas-25/codealpha_social-media-platform">
-<img src="https://img.shields.io/badge/View%20Repository-7dd3fc?style=for-the-badge&logo=github&logoColor=0d1117" alt="Social Media Repository"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=7dd3fc" alt="Social Media Repository"/>
 </a>
 
 </td>
@@ -128,12 +172,13 @@ Follower system and a cursor-paginated feed with optimistic like/comment updates
 
 ### 🤖 Godzilla Signals Simulator
 
-Python · FastAPI · SQLite · Web Scraping
+`Python` `FastAPI` `SQLite`  
+`Web Scraping` `Paper Trading`
 
 Crypto trading-signal parser and paper-trading simulator with risk-management rules and a real-time FastAPI dashboard.
 
 <a href="https://github.com/Jari-Abbas-25/Godzilla_signals_simulator">
-<img src="https://img.shields.io/badge/View%20Repository-7dd3fc?style=for-the-badge&logo=github&logoColor=0d1117" alt="Godzilla Repository"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=7dd3fc" alt="Godzilla Repository"/>
 </a>
 
 </td>
@@ -144,12 +189,12 @@ Crypto trading-signal parser and paper-trading simulator with risk-management ru
 
 **Coaching Management System**
 
-Flutter (Desktop & Android) · Supabase · PostgreSQL
+`Flutter` `Supabase` `PostgreSQL`
 
 Admin dashboard plus student portal with attendance logs, fee tracking, and direct messaging.
 
 <a href="https://github.com/Jari-Abbas-25/Light-Of-Knowledge-management-system">
-<img src="https://img.shields.io/badge/View%20Repository-7dd3fc?style=for-the-badge&logo=github&logoColor=0d1117" alt="Light Of Knowledge Repository"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=7dd3fc" alt="Light Of Knowledge Repository"/>
 </a>
 
 </td>
@@ -162,11 +207,8 @@ Admin dashboard plus student portal with attendance logs, fee tracking, and dire
 
 <div align="center">
 
-**Software Architecture** &nbsp;·&nbsp;
-**System Design** &nbsp;·&nbsp;
-**Design Patterns** &nbsp;·&nbsp;
-**Advanced Flutter** &nbsp;·&nbsp;
-**Trading Algorithms**
+`Software Architecture` &nbsp; `System Design` &nbsp; `Design Patterns`  
+`Advanced Flutter` &nbsp; `Trading Algorithms`
 
 </div>
 
@@ -210,12 +252,17 @@ That means:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jari-Abbas-25&theme=react-dark&hide_border=true&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jari-Abbas-25&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;color=7dd3fc&amp;line=7dd3fc&amp;point=ffffff" width="95%" alt="GitHub Activity Graph"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jari-Abbas-25&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&rank_icon=github" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jari-Abbas-25&layout=compact&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9&langs_count=8" width="40%" alt="Top Languages"/>
+<a href="https://github.com/Jari-Abbas-25">
+<img src="https://github-readme-stats.vercel.app/api?username=Jari-Abbas-25&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7dd3fc&amp;text_color=c9d1d9&amp;icon_color=7dd3fc&amp;rank_icon=github" width="48%" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/Jari-Abbas-25?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jari-Abbas-25&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7dd3fc&amp;text_color=c9d1d9&amp;langs_count=8" width="40%" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -226,19 +273,19 @@ That means:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/syed-jari-abbas-5832a4304/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
-
+&nbsp;
 <a href="https://syedjari-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0d1117" alt="Portfolio"/>
 </a>
-
+&nbsp;
 <a href="mailto:syedjariabbas1@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0d1117&height=150&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7dd3fc,50:172554,100:0d1117&amp;height=130&amp;section=footer" width="100%" alt="Footer"/>
 
 </div>
